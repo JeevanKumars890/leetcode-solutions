@@ -8,3 +8,4 @@
 | 24/11 | Binary Search | Algorithms | Easy | ✅ Solved | 15 min |
 | 24/11 | Move Zeroes | Algorithms | Easy | ✅ Solved | 12 min |
 | 24/11 | Valid Parentheses | Stacks | Easy | ✅ Solved | 15 min |
+| 24/11 | Reverse Linked List | Linked Lists | Easy | ✅ Solved | 20 min |
